@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "050f0644c899143517f2ab8de7361b1a"
+build_time: [1562849378, 340494000]
+inputs:
+  "/Users/krlklim/itechart/green_minsk/GreenBel/GreenBel/ViewController.swift": [1562849378, 130344749]
+  "/Users/krlklim/itechart/green_minsk/GreenBel/GreenBel/AppDelegate.swift": [1562848606, 991496712]
